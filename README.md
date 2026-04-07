@@ -35,11 +35,10 @@ This repository is intended to demonstrate:
 ### Runtime wrt. Population Size and Number of Offspring
 ![Runtime Plot](results/runtime_plot.png)
 
-Our results, supported by statistical significance measurments, show that 5 is the optimal setting of population size for concrete scene generation. Number of offspring performed best with values of 3 or 4, however the performance benefits over other settings was limited. Overall, population size is more influential than number of offspring on the performance of concrete scene generation.
+The results, supported by statistical significance measurments, show that 5 is the optimal setting of population size for concrete scene generation. Number of offspring performed best with values of 3 or 4, however the performance benefits over other settings was limited. Overall, population size is more influential than number of offspring on the performance of concrete scene generation.
 
 ## Technologies Used
-- Python  
-- Pymoo (NSGA-II implementation)  
+- Python    
 - Statistical testing (Fisher’s exact test, Mann–Whitney U test)  
 
 ## Related Work
