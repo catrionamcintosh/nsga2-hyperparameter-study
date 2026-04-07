@@ -27,10 +27,15 @@ This repository is intended to demonstrate:
 - data collection workflows  
 - statistical analysis of results  
 
-## Key Takeaways
-- Algorithm performance is highly sensitive to hyperparameter choices  
-- Smaller population sizes (around 4–5) yielded better performance in this setting  
-- Statistical analysis is essential for understanding performance differences across configurations  
+## Results
+
+### Success Rate vs Population Size
+![Success Rate Plot](results/success_rate_plot.png)
+
+### Runtime vs Population Size
+![Runtime Plot](results/runtime_plot.png)
+
+These results show how hyperparameter choices impact both success rate and runtime, highlighting trade-offs between performance metrics.
 
 ## Technologies Used
 - Python  
