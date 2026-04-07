@@ -29,10 +29,10 @@ This repository is intended to demonstrate:
 
 ## Results
 
-### Success Rate vs Population Size
+### Success Rate wrt. Population Size and Number of Offspring
 ![Success Rate Plot](results/success_rate_plot.png)
 
-### Runtime vs Population Size
+### Runtime wrt. Population Size and Number of Offspring
 ![Runtime Plot](results/runtime_plot.png)
 
 These results show how hyperparameter choices impact both success rate and runtime, highlighting trade-offs between performance metrics.
