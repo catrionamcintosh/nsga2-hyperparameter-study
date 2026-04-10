@@ -17,15 +17,14 @@ My work focused on designing and conducting experiments to evaluate how differen
 ## Repository Structure
 - `scripts/` – Python scripts used to run experiments and collect results  
 - `analysis/` – Scripts or notebooks used for analyzing experimental results  
-- `results/` – Sample output data (e.g., logs, CSVs, or summaries of runs)  
+- `results/` – Sample output data (Excel)  
 
 ## Notes on Reproducibility
 The full experimental setup depends on a research environment and external tools (e.g., NSGA-II implementation and simulation frameworks), so the code may not run directly without additional configuration.
 
 This repository is intended to demonstrate:
 - experiment design  
-- data collection workflows  
-- statistical analysis of results  
+- data collection workflows   
 
 ## Results
 
